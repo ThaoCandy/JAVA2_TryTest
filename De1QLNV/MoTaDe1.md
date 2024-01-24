@@ -6,7 +6,6 @@
 •	tuoi<40: Tuổi trẻ	•	tuoi<60: Tuổi sắp về hưu
 •	còn lại: Tuổi già
 2.	Xây dựng form như hình:
- 	![---HÌNH-----](https://github.com/ThaoCandy/JAVA2_TryTest/assets/147786828/a31469a7-f784-43c5-99fd-5adb57c8110f)
  	
 ArrayList< NhanVien >
 Mở form:  
@@ -21,4 +20,6 @@ Ghi:
 •	Lấy dữ liệu trên form để thêm 1 phần tử: Save vào ArrayList, Save vào JTable 
 •	Ghi ArrayList< NhanVien > vào file 
 Xóa: Xóa phần tử đang chọn trên Table, trong file. 
+
+
 ![image](https://github.com/ThaoCandy/JAVA2_TryTest/assets/147786828/a31469a7-f784-43c5-99fd-5adb57c8110f)
